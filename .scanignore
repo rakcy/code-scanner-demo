@@ -1,2 +1,4 @@
 # do not scan the xml directory
 xml/**/*
+# do not scan go
+go/**/*
