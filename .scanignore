@@ -1,2 +1,2 @@
-# do not scan the html directory
-html/**/*
+# do not scan the xml directory
+xml/**/*
