@@ -10,3 +10,4 @@ public class HelloJava {
         System.out.println("val = " + val);
     }
 }
+
